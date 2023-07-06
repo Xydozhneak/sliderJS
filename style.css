@@ -1,0 +1,19 @@
+.hide{
+ display: none;
+}
+#imgConteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    background-color: white;
+    border: 1px solid black;
+    height: 40px;
+}
